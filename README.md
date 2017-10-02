@@ -1,4 +1,4 @@
-# homologation environment
+# Homologation Environment
 
 # ELK - Elastic Search, Logstash, and Kibana.
 
